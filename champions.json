@@ -1,0 +1,302 @@
+{
+  "1": {
+    "id": "Aatrox",
+    "tier": 2,
+    "traits": [4, 19, 11]
+  },
+  "2": {
+    "id": "Ahri",
+    "tier": 1,
+    "traits": [17, 16]
+  },
+  "3": {
+    "id": "Amumu",
+    "tier": 3,
+    "traits": [20, 5]
+  },
+  "4": {
+    "id": "Annie",
+    "tier": 4,
+    "traits": [6, 9]
+  },
+  "5": {
+    "id": "Aphelios",
+    "tier": 3,
+    "traits": [17, 18]
+  },
+  "6": {
+    "id": "Ashe",
+    "tier": 4,
+    "traits": [20, 18]
+  },
+  "7": {
+    "id": "Alune",
+    "tier": 3,
+    "traits": [15, 9]
+  },
+  "8": {
+    "id": "Bard",
+    "tier": 3,
+    "traits": [21, 7]
+  },
+  "9": {
+    "id": "Caitlyn",
+    "tier": 1,
+    "traits": [4, 18]
+  },
+  "10": {
+    "id": "ChoGath",
+    "tier": 1,
+    "traits": [21, 8]
+  },
+  "11": {
+    "id": "Darius",
+    "tier": 1,
+    "traits": [15, 3]
+  },
+  "12": {
+    "id": "Galio",
+    "tier": 4,
+    "traits": [13, 11]
+  },
+  "13": {
+    "id": "Garen",
+    "tier": 1,
+    "traits": [13, 5]
+  },
+  "14": {
+    "id": "Hwei",
+    "tier": 5,
+    "traits": [21]
+  },
+  "15": {
+    "id": "Illaoi",
+    "tier": 3,
+    "traits": [4, 16, 5]
+  },
+  "16": {
+    "id": "Irelia",
+    "tier": 5,
+    "traits": [13, 3]
+  },
+  "17": {
+    "id": "Janna",
+    "tier": 2,
+    "traits": [1, 9]
+  },
+  "18": {
+    "id": "Kaisa",
+    "tier": 4,
+    "traits": [19, 7]
+  },
+  "19": {
+    "id": "Kayn",
+    "tier": 4,
+    "traits": [4, 12]
+  },
+  "20": {
+    "id": "KhaZix",
+    "tier": 1,
+    "traits": [10, 12]
+  },
+  "21": {
+    "id": "Kindred",
+    "tier": 2,
+    "traits": [14, 17, 12]
+  },
+  "22": {
+    "id": "KogMaw",
+    "tier": 1,
+    "traits": [21, 9, 18]
+  },
+  "23": {
+    "id": "LeeSin",
+    "tier": 4,
+    "traits": [1, 3]
+  },
+  "24": {
+    "id": "Lillia",
+    "tier": 4,
+    "traits": [21, 9]
+  },
+  "25": {
+    "id": "Lissandra",
+    "tier": 5,
+    "traits": [20, 16]
+  },
+  "26": {
+    "id": "Lux",
+    "tier": 2,
+    "traits": [20, 16]
+  },
+  "27": {
+    "id": "Malphite",
+    "tier": 1,
+    "traits": [10, 8]
+  },
+  "28": {
+    "id": "Morgana",
+    "tier": 4,
+    "traits": [4, 22]
+  },
+  "29": {
+    "id": "Neeko",
+    "tier": 2,
+    "traits": [10, 21, 16]
+  },
+  "30": {
+    "id": "Ornn",
+    "tier": 4,
+    "traits": [14, 8]
+  },
+  "31": {
+    "id": "Qiyana",
+    "tier": 2,
+    "traits": [10, 3]
+  },
+  "32": {
+    "id": "Senna",
+    "tier": 2,
+    "traits": [19, 18]
+  },
+  "33": {
+    "id": "Sett",
+    "tier": 5,
+    "traits": [17, 15, 5]
+  },
+  "34": {
+    "id": "Shen",
+    "tier": 2,
+    "traits": [4, 8]
+  },
+  "35": {
+    "id": "Riven",
+    "tier": 2,
+    "traits": [13, 2, 11]
+  },
+  "36": {
+    "id": "Sivir",
+    "tier": 1,
+    "traits": [13, 7]
+  },
+  "37": {
+    "id": "Soraka",
+    "tier": 3,
+    "traits": [10, 2]
+  },
+  "38": {
+    "id": "Sylas",
+    "tier": 4,
+    "traits": [15, 11]
+  },
+  "39": {
+    "id": "Syndra",
+    "tier": 4,
+    "traits": [17, 16]
+  },
+  "40": {
+    "id": "TahmKench",
+    "tier": 3,
+    "traits": [21, 11]
+  },
+  "41": {
+    "id": "Teemo",
+    "tier": 2,
+    "traits": [6, 7]
+  },
+  "42": {
+    "id": "Thresh",
+    "tier": 3,
+    "traits": [17, 8]
+  },
+  "43": {
+    "id": "Tristana",
+    "tier": 3,
+    "traits": [6, 3]
+  },
+  "44": {
+    "id": "Udyr",
+    "tier": 5,
+    "traits": [19, 8]
+  },
+  "45": {
+    "id": "Volibear",
+    "tier": 3,
+    "traits": [19, 3]
+  },
+  "46": {
+    "id": "WuKong",
+    "tier": 5,
+    "traits": [10, 22]
+  },
+  "47": {
+    "id": "Yasuo",
+    "tier": 1,
+    "traits": [17, 3]
+  },
+  "48": {
+    "id": "Yone",
+    "tier": 3,
+    "traits": [15, 12]
+  },
+  "49": {
+    "id": "Yorick",
+    "tier": 2,
+    "traits": [15, 8]
+  },
+  "50": {
+    "id": "Zoe",
+    "tier": 3,
+    "traits": [6, 13, 16]
+  },
+  "51": {
+    "id": "Zyra",
+    "tier": 2,
+    "traits": [13, 22]
+  },
+  "52": {
+    "id": "FortuneYord",
+    "tier": 1,
+    "traits": [6, 11]
+  },
+  "53": {
+    "id": "RekSai",
+    "tier": 1,
+    "traits": [14, 11]
+  },
+  "54": {
+    "id": "Xayah",
+    "tier": 5,
+    "traits": [1, 7]
+  },
+  "55": {
+    "id": "Gnar",
+    "tier": 2,
+    "traits": [14, 5]
+  },
+  "56": {
+    "id": "Rakan",
+    "tier": 5,
+    "traits": [1, 2]
+  },
+  "57": {
+    "id": "Jax",
+    "tier": 1,
+    "traits": [19, 5]
+  },
+  "58": {
+    "id": "Diana",
+    "tier": 3,
+    "traits": [1, 22]
+  },
+  "59": {
+    "id": "Azir",
+    "tier": 5,
+    "traits": [14, 9]
+  },
+  "60": {
+    "id": "Nautilus",
+    "tier": 4,
+    "traits": [21, 5]
+  }
+}
