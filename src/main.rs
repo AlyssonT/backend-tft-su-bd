@@ -54,7 +54,7 @@ fn create_game(
 async fn traits() -> impl IntoResponse {
     let game = create_game(
         "champions.json",
-        "traits.json",
+        "traits_bd.json",
         true,
         &"standUnited".to_owned(),
         1.0,
@@ -109,11 +109,10 @@ async fn solve(Path(num_champs): Path<u8>, Query(params): Query<SolveParams>) ->
 #[shuttle_runtime::main]
 async fn main() -> shuttle_axum::ShuttleAxum {
     let cors_layer = CorsLayer::new()
-        .allow_origin(
-            "https://tft-su-bd2.vercel.app"
-                .parse::<HeaderValue>()
-                .unwrap(),
-        )
+        .allow_origin([
+            "https://tft-su-bd2.vercel.app".parse::<HeaderValue>().unwrap(),
+            "http://localhost:5173".parse::<HeaderValue>().unwrap(),
+        ])
         .allow_methods([Method::GET]);
 
     let app = Router::new()
